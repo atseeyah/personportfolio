@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.img {
+    text-align: center ;
+    height: 300px;
+    background-color:antiquewhite;
+
+}
+h1 {
+    text-align: center;
+    background-size: 15px;
+}
